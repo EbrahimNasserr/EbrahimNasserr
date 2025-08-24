@@ -50,4 +50,4 @@ Passionate and detail-oriented Full Stack Web Developer specializing in the MERN
 - [StitchItOn](https://stitchiton.net/) – Custom product designer with Vue.js + Tailwind + GSAP  
 - [Plan4U](https://plan4u.echop.us/) – Lesson presentation & content management tool  
 
-                ✨ _Always building, always learning._  
+✨ _Always building, always learning._  
